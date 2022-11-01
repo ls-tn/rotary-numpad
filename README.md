@@ -30,7 +30,7 @@ and then emit that number. More info: [Pulse dialing](https://en.wikipedia.org/w
 
 ## Wiring
 
-[ASee the pin layout here](https://m.media-amazon.com/images/I/71VuVojNFbL._AC_SL1001_.jpg).
+[See the pin layout here](https://m.media-amazon.com/images/I/71VuVojNFbL._AC_SL1001_.jpg).
 
 - Common wire (white) to VCC
 - Pulse wire (brown) to Pin 9
