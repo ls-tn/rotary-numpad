@@ -26,7 +26,7 @@ back to the normal position counter-clockwise. 3 breaks = the number 3. 9 breaks
 = the number 9. 10 for zero.
 
 The job is to count the short "circuit breaks" while the first switch is on, 
-and then emit that number.
+and then emit that number. More info: [Pulse dialing](https://en.wikipedia.org/wiki/Pulse_dialing)
 
 ## Wiring
 
