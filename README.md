@@ -38,7 +38,7 @@ and then emit that number. More info: [Pulse dialing](https://en.wikipedia.org/w
 - 10K ohm "pull down" resistor between GND and Pin 8
 - 10K ohm "pull down" resistor between GND and Pin 9
 
-Launch
+## Launch
 
 Open the code in the Arduino IDE, connect your Arduino board to a USB port 
 and upload the code to the board.
